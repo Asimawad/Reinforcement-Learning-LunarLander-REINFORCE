@@ -64,7 +64,7 @@ The agent was trained for 5,000+ episodes with the following features:
 ### Running the Training
 Execute the main script to train the agent:
 ```bash
-python src/train_lunarlander.py
+python src/LunaLanderReinforce.py
 ```
 
 ### Visualizing Results
