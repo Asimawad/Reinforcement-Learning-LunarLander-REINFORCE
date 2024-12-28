@@ -1,0 +1,6 @@
+gymnasium
+jax
+jaxlib
+haiku
+optax
+matplotlib
